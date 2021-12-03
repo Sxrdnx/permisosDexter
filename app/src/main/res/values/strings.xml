@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">permisos_Dexter</string>
+
+    <string name="permission_button_camera">Camera Permission</string>
+    <string name="permission_button_contacts">Contacts Permission</string>
+    <string name="permission_button_audio">Audio Permission</string>
+    <string name="permission_button_all">All Permissions</string>
+
+    <string name="permission_status_granted">Granted!</string>
+    <string name="permission_status_denied">Denied!</string>
+    <string name="permission_status_denied_permanently">Permanently Denied!?</string>
+
+</resources>
